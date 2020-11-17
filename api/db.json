@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "lol stream",
+      "description": "playing lol",
+      "id": 2
+    },
+    {
+      "title": "lol stream",
+      "description": "playing lol",
+      "id": 3
+    },
+    {
+      "title": "lol stream",
+      "description": "playing lol",
+      "id": 4
+    },
+    {
+      "title": "asa",
+      "description": "dsdddd",
+      "id": 5
+    },
+    {
+      "title": "lol stream",
+      "description": "playing lol alot",
+      "id": 6
+    },
+    {
+      "title": "asa",
+      "description": "aaaaaa",
+      "id": 7
+    },
+    {
+      "title": "AAA",
+      "description": "aaaaaaaaaaa",
+      "userId": null,
+      "id": 8
+    },
+    {
+      "title": "n",
+      "description": "nnnn",
+      "id": 10
+    },
+    {
+      "title": "m",
+      "description": "mmmmmmmmmmm",
+      "id": 11
+    },
+    {
+      "title": "lol stream",
+      "description": "dsdddd",
+      "userId": "109256780493714578230",
+      "id": 12
+    }
+  ]
+}
